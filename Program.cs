@@ -4,7 +4,13 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            string text = "hej";
+            print(text);
+            
+        }
+        public static void print(string text) 
+        {
+            Console.WriteLine(text);
         }
     }
 }
