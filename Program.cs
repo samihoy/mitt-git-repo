@@ -6,7 +6,7 @@
         {
             string text = "hej";
             print(text);
-            jhsbfjhsvfsd
+            jhsbfjhsvfsderet
         }
         public static void print(string text) 
         {
