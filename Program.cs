@@ -5,8 +5,8 @@
         static void Main(string[] args)
         {
             string text = "hej";
-            print(text);
-            jhsbfjhsvfsderet
+            print(text);fgdfgfasdasda
+            jhsbfjhsvfsderetsadasdadhfhfdhfdhtsrttsrst
         }
         public static void print(string text) 
         {
